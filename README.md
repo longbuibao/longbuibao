@@ -8,6 +8,7 @@
 <p> I'm a IT <strong>student</strong> with a passion for building highly <strong>usable web applications</strong>.</p>
 
 </div>
+![longbuibao](https://github.com/longbuibao/longbuibao/blob/main/dino.gif?raw=true)
 
 
 
