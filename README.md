@@ -6,7 +6,7 @@
 <br>
 
 <p> I'm a IT <strong>student</strong> with a passion for building highly <strong>usable web applications</strong>.</p>
-[![J2TEAM](dino.gif)](https://j2team.dev/?utm_source=github&utm_medium=github_profile)
+[![dino running](https://raw.githubusercontent.com/longbuibao/longbuibao/main/dino.gif)]
 </div>
 
 
