@@ -6,9 +6,9 @@
 <br>
 
 <p> I'm a IT <strong>student</strong> with a passion for building highly <strong>usable web applications</strong>.</p>
-
-</div>
 ![dino running](https://raw.githubusercontent.com/longbuibao/longbuibao/main/dino.gif)
+</div>
+
 
 
 
