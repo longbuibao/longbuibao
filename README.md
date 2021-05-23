@@ -6,7 +6,7 @@
 <br>
 
 <p> I'm a IT <strong>student</strong> with a passion for building highly <strong>usable web applications</strong>.</p>
-[![dino running](./dino.gif)]
+![dino running](./dino.gif)
 </div>
 
 
