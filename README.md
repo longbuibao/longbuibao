@@ -5,10 +5,11 @@
 
 <br>
 
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&locale=en&layout=compact&line_height=20&theme=graywhite" />
 <p> I'm a IT <strong>student</strong> with a passion for building highly <strong>usable web applications</strong>.</p>
-<img src="https://raw.githubusercontent.com/longbuibao/longbuibao/main/dino.gif">
+
 </div>
 
 <div align="center">
-  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&locale=en&layout=compact&line_height=20&theme=graywhite&card_width=664" />
+  <img src="https://raw.githubusercontent.com/longbuibao/longbuibao/main/dino.gif">
 </div>
