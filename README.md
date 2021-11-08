@@ -9,6 +9,6 @@
 <img src="https://raw.githubusercontent.com/longbuibao/longbuibao/main/dino.gif">
 </div>
 
-
+<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=e2a7a2&show_owner=true"/>
 
 
