@@ -10,5 +10,5 @@
 </div>
 
 <div align="center">
-  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" />
+  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&locale=en&layout=compact&line_height=20&theme=graywhite&card_width=664" />
 </div>
