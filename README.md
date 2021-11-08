@@ -9,8 +9,8 @@
 <img src="https://raw.githubusercontent.com/longbuibao/longbuibao/main/dino.gif">
 </div>
 
-<img style=" display: block;margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=longbuibao&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" alt="longbui-stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longbuibao&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" alt="longbui-stats" />
 
-<img style=" display: block;margin: 0 auto;" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=e2a7a2&show_owner=true"/>
+<img align="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=e2a7a2&show_owner=true"/>
 
 
