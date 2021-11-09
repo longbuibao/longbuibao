@@ -5,6 +5,7 @@
 
 <br>
 <p> I'm a IT <strong>student</strong> with a passion for building highly <strong>usable web applications</strong>.</p>
+  <img src="https://komarev.com/ghpvc/?username=longbuibao&label=Profile%20views&color=f69673&style=flat" alt="bongudth" />
 <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=longbuibao&show_icons=true&locale=en&layout=compact&line_height=30&line_height=30&theme=graywhite" />
 
 
